@@ -1,0 +1,6 @@
+./Objects/*.o
+./Objects/*.crf
+./Objects/*.dep
+./Objects/*.htm
+./Objects/*.d
+./Objects/*.
